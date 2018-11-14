@@ -29,3 +29,4 @@ export class Dao<T> implements Interface<T> {
         return [null];
     }
 }
+

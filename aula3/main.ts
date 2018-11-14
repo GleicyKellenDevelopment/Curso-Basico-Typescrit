@@ -6,3 +6,4 @@ let persoaDAO: PersonDAO = new PersonDAO();
 let person: Person = new Person('Teresa');
 
 persoaDAO.insert(person)
+

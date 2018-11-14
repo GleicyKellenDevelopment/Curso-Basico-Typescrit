@@ -13,4 +13,6 @@ export class Student extends Person{
         super.showAge(24);
         
     }
+
+    
 }

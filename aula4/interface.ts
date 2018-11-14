@@ -8,4 +8,5 @@ export interface Interface<T> {
 
     findById(id: number): T;
     findAll(): [T];
+    
 }

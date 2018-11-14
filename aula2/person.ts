@@ -11,4 +11,6 @@ export class Person {
         console.log(`${this.name} has ${age} years old`);
         
     }
+
+    
 }

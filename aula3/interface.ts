@@ -8,4 +8,5 @@ export interface Interface {
 
     findById(id: number): any;
     findAll(): [any];
+    
 }

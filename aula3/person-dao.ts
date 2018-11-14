@@ -30,4 +30,6 @@ export class PersonDAO implements Interface {
         console.log('finding ...');
         return [new Person('Tereza')];
     }
+
+    
 }
